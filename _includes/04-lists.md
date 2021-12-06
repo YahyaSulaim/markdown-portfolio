@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* Nothing
+* Is True
+  * Everything
+  * Is Permitted
