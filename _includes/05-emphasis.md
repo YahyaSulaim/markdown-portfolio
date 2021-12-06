@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Be like the flower that gives its fragrance*
+_to even the hand that crushes it_
+
+**Be like the flower that gives its fragrance**
+__to even the hand that crushes it__
+
+_play **with** me_
