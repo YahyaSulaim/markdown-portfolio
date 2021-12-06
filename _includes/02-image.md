@@ -1,1 +1,1 @@
-![catcry](https://imgur.com/qUvuROf)
+![catcry](https://imgur.com/qUvuROf.png)
